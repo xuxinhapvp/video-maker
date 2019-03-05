@@ -15,5 +15,8 @@
     "url": "https://github.com/xuxinhapvp/video-maker/issues"
   },
   "homepage": "https://github.com/xuxinhapvp/video-maker#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
